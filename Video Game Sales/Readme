@@ -1,8 +1,6 @@
-This project contains a Tableau dashboard that visualizes and analyzes data 
-related to video game sales, providing insights into sales trends, game performance, and market analysis.
+This project contains a Tableau dashboard that visualizes and analyzes data related to video game sales, providing insights into sales trends, game performance, and market analysis.
 
-The Video Game Sales Dashboard in Tableau is designed to offer a comprehensive view of key metrics in the 
-gaming industry, enabling stakeholders to explore and understand:
+The Video Game Sales Dashboard in Tableau is designed to offer a comprehensive view of key metrics in the gaming industry, enabling stakeholders to explore and understand:
 
 1} Sales trends by region, platform, genre, and publisher.
 2} Game performance metrics such as sales volume, user ratings, and critic scores.
